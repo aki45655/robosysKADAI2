@@ -3,3 +3,5 @@
 以下を参考にして作りました。  
 https://github.com/ryuichiueda/robosys2019/blob/master/md/13_ros.md  
 https://ryuichiueda.github.io/robosys2019/lesson13.html#/  
+
+デモ動画： https://youtu.be/XQ34l6fhWFY
